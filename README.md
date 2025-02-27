@@ -69,9 +69,5 @@ ValueError: List must contain nine numbers.
 ## Contributing
 Feel free to fork this repository and submit pull requests with improvements or bug fixes!
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any questions or support, reach out via [your-email@example.com](mailto:your-email@example.com).
 
